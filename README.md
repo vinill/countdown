@@ -13,5 +13,3 @@ This will automatically start a local server at ``localhost:3000``
 ### Demo 
 ![](https://github.com/vinill/countdown/blob/master/animation.gif)
 
-
-demonstrating a count down to a certain date.
